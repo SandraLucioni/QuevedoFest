@@ -1,23 +1,17 @@
-## Índice de contenidos
-* [Contenido 1](#item1)
-* [Contenido 2](#item2)
-* [Contenido 3](#item3)
-* [Contenido 4](#item4)
-
 # Proyecto QuevedoFest
 
-- [ ] 1. [Introduccion](#Introduccion)
-- [ ] 2. [Modelo Conceptual](#Modelo-Conceptual)
-   - [ ] 2.1. [Especificaciones](#Especificaciones)
-   - [ ] 2.2. [Diagrama Entidad-Relación](#Diagrama-Entidad-Relacion)
-- [ ] 3. [Modelo Lógico](#Modelo-logico)
-   - [ ] 3.1. [Modelo Relacional](#Modelo-relacional)
-   - [ ] 3.2. [Normalización/Desnormalización](#Normalizacion)
-- [ ] 4. [Modelo Físico](#Modelo-fisico)
-   - [ ] 4.1. [Diagrama de base de datos](#Diagrama-de-Bases-de-Datos)(notación "Crow's feet" o IDEF1X) 
-   - [ ] 4.2. [Creación de tablas y otros objetos](#Creacion-de-Tablas)
-   - [ ] 4.3. [Carga de datos de prueba](#Carga-de-Datos-de-Prueba)
-- [ ] 5. [Consultas de la base de datos](#Consultas-de-la-Bases-de-Datos)
+- [x] 1. [Introduccion](#Introduccion)
+- [x] 2. [Modelo Conceptual](#Modelo-Conceptual)
+   - [x] 2.1. [Especificaciones](#Especificaciones)
+   - [x] 2.2. [Diagrama Entidad-Relación](#Diagrama-Entidad-Relacion)
+- [x] 3. [Modelo Lógico](#Modelo-logico)
+   - [x] 3.1. [Modelo Relacional](#Modelo-relacional)
+   - [x] 3.2. [Normalización/Desnormalización](#Normalizacion)
+- [x] 4. [Modelo Físico](#Modelo-fisico)
+   - [x] 4.1. [Diagrama de base de datos](#Diagrama-de-Bases-de-Datos)(notación "Crow's feet" o IDEF1X) 
+   - [x] 4.2. [Creación de tablas y otros objetos](#Creacion-de-Tablas)
+   - [x] 4.3. [Carga de datos de prueba](#Carga-de-Datos-de-Prueba)
+- [ ] 5. [Consultas de la base de datos](#Consultas-de-las-Bases-de-Datos)
    - [ ] 5.1. Consultas más frecuentes
    - [ ] 5.2. Consultas sencillas
    - [ ] 5.3. Consultas de agregación y resumen
